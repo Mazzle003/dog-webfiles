@@ -111,14 +111,6 @@
      }
 
 
-    .sub-heading {
-        font-size: 1.2rem;
-    }
-
-    .section-header {
-        font-size: 2.4rem;
-    }
-
     .section-3-feature {
         grid-template-columns: 1fr;       
     }
@@ -148,27 +140,8 @@
     }
     
     @media (max-width: 34em) {
-    html {
-        /* font-size: 31.3%;        */
-    }
 
-    .sub-header {
-        /* font-size: 3.8rem; */
-    }
-
-    .sub-heading {
-        /* font-size: 1rem; */
-    }
-
-    .section-header {
-        /* font-size: 1.6rem; */
-    }
-
-
-    .number {
-        /* font-size: 4.8rem; */
-    }
-
+    
     .article-paragraph {
         font-size: 1.35rem;
     }
