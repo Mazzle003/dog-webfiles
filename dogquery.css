@@ -31,8 +31,35 @@
         font-size: 43.7%;
     }
 
+    h3 {
+        text-align: center;
+        font-size: 1.8rem;
+        margin-bottom: 2.4rem;
+    }
+
+    h4 {
+        color: #333;
+    }
+
     .table-container {
         padding: 9.6rem 2rem;
+    }
+
+    .dog-properties {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .description {
+        max-width: 75%;
+        font-size: 1.6rem;
+        margin: 0 auto;
+        border: none;
+    }
+
+    .dog-img-box {
+        text-align: center;
+        grid-row: 1;
     }
 
 
